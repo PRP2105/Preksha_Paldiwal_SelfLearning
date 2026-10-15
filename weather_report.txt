@@ -1,0 +1,7 @@
+--- Weather Report ---
+Location: Latitude 18.076, Longitude 74.8777
+Timezone: Asia/Kolkata
+Temperature: 28.1°C
+Windspeed: 4.9 km/h
+Weathercode: 2
+----------------------
